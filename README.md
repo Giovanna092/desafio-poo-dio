@@ -14,4 +14,4 @@ O objetivo principal é colocar em prática umas das principais ferramentas da O
 5. E para representar CLASSES que foram criadas e relacionadas, basta transforma-las em OBJETOS
 
 ## Agradecimentos
-Gostaria de agradecer à dev cami-la por ter criado e disponibilizado esse projeto de forma gratuita para quem está começando com a POO :) 
+Gostaria de agradecer à dev Camila Cavalcante (cujo perfil é cami-la) por ter criado e disponibilizado esse projeto de forma gratuita para quem está começando com a POO :) 
